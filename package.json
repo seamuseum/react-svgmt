@@ -70,8 +70,8 @@
     "react-dom": "^17.0.0"
   },
   "dependencies": {
+    "@serprex/react-motion": "^0.6.3",
     "d3-ease": "^1.0.3",
-    "react-motion": "^0.5.2",
     "react-move": "^2.7.0"
   }
 }
