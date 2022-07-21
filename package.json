@@ -72,6 +72,6 @@
   "dependencies": {
     "@serprex/react-motion": "^0.6.3",
     "d3-ease": "^1.0.3",
-    "react-move": "^2.7.0"
+    "react-move": "^6.5.0"
   }
 }
